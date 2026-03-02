@@ -21,12 +21,9 @@ Terminal based internet radio player written in C, using libmpv and ncurses
 3) Run "make"
 4) To install system-wide run "sudo make instal", it installs the iTermRadio app under /usr/sbin
 
-<span style="text-decoration:underline;">   OR
-Download the app from releases and run install script </span>
-
 ## Uninstall
 
-Run "sudo make uninstall" or remove the iTermRadio app from /usr/sbin or <span style="text-decoration:underline;"> run install script </span>
+Run "sudo make uninstall" or remove the iTermRadio app from /usr/sbin
 
 ## Usage
 
