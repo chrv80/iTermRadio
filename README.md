@@ -43,6 +43,7 @@ You can use mouse or/and keyboard for usage.
 - If you want to change default radio list file, at the moment you need to edit the iTermRadio.c file and recompile.
 - On OS X Leopard, mouse input didn't work.
 - In order to add a internet radio station URL to list file, at the moment you need to update the list file manually.
+- I included a radiolist.lst with my favourite radio stations
 
 <img width="1680" height="1050" alt="Στιγμιότυπο οθόνης από 2026-03-02 15-37-50" src="https://github.com/user-attachments/assets/c6c557e5-c0cf-48ee-960d-070ea693a388" />
 <img width="1440" height="900" alt="Picture 1" src="https://github.com/user-attachments/assets/54d1457e-18c4-47ea-b3dc-c8d88ac84d77" />
