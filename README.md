@@ -19,7 +19,7 @@ Terminal based internet radio player written in C, using libmpv and ncurses
 1) Install dependencies
 2) Clone this repository
 3) Run "make"
-4) To install system-wide run "sudo make instal", it installs the iTermRadio app under /usr/sbin
+4) To install system-wide run "sudo make install", it installs the iTermRadio app under /usr/sbin
 
 ## Uninstall
 
